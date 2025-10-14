@@ -1,0 +1,83 @@
+\documentclass[11pt]{beamer} 
+\usetheme{Boadilla}  
+\usecolortheme{default} 
+
+\setbeamertemplate{navigation symbols}{} % hides nativation buttons at bottom
+\setbeamertemplate{headline}{} %hides navigation bar at top
+
+\usepackage{xcolor}
+
+% Define custom colors
+\definecolor{myprimary}{RGB}{13, 42, 192}   % Blue  
+\definecolor{mysecondary}{RGB}{199, 209, 251}  % Middle color
+\definecolor{myaccent}{RGB}{126, 138, 203}    % Left color
+
+% Apply custom colors
+\setbeamercolor{palette primary}{bg=myprimary,fg=white}
+\setbeamercolor{palette secondary}{bg=mysecondary,fg=white}
+\setbeamercolor{palette tertiary}{bg=myaccent,fg=white}
+\setbeamercolor{titlelike}{bg=myprimary,fg=white}
+\setbeamercolor{structure}{fg=myprimary}
+
+%info
+\title[Portfolio Choice]{Behavioral Versus Mean-Variance Portfolio Choice: An empirical Study}
+\author{João Paulo Coelho}
+%\textit{joao_paulo_coelho@iscte-iul.pt}
+%\titlegraphic{\includegraphics[scale = 0.5]{Figures/Picture 1.png}}
+\institute{ISCTE - IUL}
+\date[Today]{October 29, 2025}
+
+
+\begin{document}
+
+%titlepage
+\begin{frame}  % Better practice: use \begin{frame} instead of \frame{}
+\titlepage
+\end{frame}
+
+%tableofcontents
+\begin{frame}
+    \tableofcontents
+\end{frame}
+
+\section{Introduction}
+
+\begin{frame}{Introduction}
+    \begin{enumerate}
+        \item What does the paper do?
+        \item Why is it important?
+    \end{enumerate}
+\end{frame}
+
+\section{Data}
+\begin{frame}{Data}
+    \begin{itemize}
+        \item Source: Center for Research in Security Prices, LLC (CRSP)
+        \item Sample period: January 2012 to December 2024
+        \item Asset Universe: 
+        \begin{itemize}
+            \item U.S. stock with a complete price history over the sample period;
+            \item Daily yields on 3-month U.S. Treasury Bills and 10-year U.S. Treasury Bonds;
+            \item Daily S\&P500 index prices, including dividends;
+            \item Everything expressed in U.S. dollars (USD)
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+
+\section{Methodology}
+\begin{frame}{Methodology}
+    \begin{itemize}
+        \item Step 1: The bootstrap method
+        \item Step 2: Generation of portfolios
+        \item Step 3: Obtain the BPT optimal portfolio
+        \item Step 4: The efficient frontier
+        \item Step 5: Obtain the $BPT_{CPT}$ portfolio
+    \end{itemize}
+\end{frame}
+
+\section{Literature}
+\begin{frame}{Literature}
+
+\end{frame}
+
+\end{document}

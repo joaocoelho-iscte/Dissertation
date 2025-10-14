@@ -1,0 +1,20 @@
+\babel@toc {english}{}\relax 
+\global \c@tocdepth 2\relax 
+\contentsline {chapter}{\tocchapter {Chapter}{}{Acknowledgment}}{iii}{}%
+\contentsline {chapter}{\tocchapter {Chapter}{}{Resumo}}{v}{}%
+\contentsline {chapter}{\tocchapter {Chapter}{}{Abstract}}{vii}{}%
+\contentsline {chapter}{\tocchapter {Chapter}{1}{Introduction}}{1}{}%
+\contentsline {section}{\tocsection {}{1.1}{Major Section}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{1.1.1}{This is a subsection}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{1.1.2}{This is another subsection}}{1}{}%
+\contentsline {section}{\tocsection {}{1.2}{Another Major Section}}{1}{}%
+\contentsline {chapter}{\tocchapter {Chapter}{2}{Literature Review}}{3}{}%
+\contentsline {section}{\tocsection {}{2.1}{One Section}}{3}{}%
+\contentsline {section}{\tocsection {}{2.2}{Another Section}}{3}{}%
+\contentsline {chapter}{\tocchapter {Chapter}{3}{Mathematics}}{5}{}%
+\contentsline {section}{\tocsection {}{3.1}{Mathematics and Text}}{5}{}%
+\contentsline {section}{\tocsection {}{3.2}{Mathematical Formulas}}{5}{}%
+\contentsline {chapter}{\tocchapter {Chapter}{4}{Theorem-like Environments}}{7}{}%
+\contentsline {section}{\tocsection {}{4.1}{Some Examples}}{7}{}%
+\contentsline {chapter}{\tocchapter {Chapter}{5}{Conclusions}}{9}{}%
+\contentsline {chapter}{\tocchapter {Chapter}{}{References}}{11}{}%
