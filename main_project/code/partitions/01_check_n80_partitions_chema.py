@@ -1,5 +1,7 @@
 import sqlite3
 
+#Code to check the schema/headers of the SQLite database created (n80.partitions.db)
+
 def check_database_headers():
     """Check the schema/headers of the SQLite database"""
     

@@ -1,6 +1,8 @@
 import sqlite3
 import pandas as pd
 
+#Code to randomly select a sample of 100,000 portfolios from (n80_partitions.db)
+
 def random_sample_sqlite():
     """Randomly sample 100,000 portfolios directly from SQLite"""
     
