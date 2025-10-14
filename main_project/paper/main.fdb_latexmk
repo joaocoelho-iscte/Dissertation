@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1760379879.4284 "/Users/glenazzopardi/Documents/ISCTE/main_project/paper/main.tex" "main.pdf" "main" 1760379879.93073 0
-  "/Users/glenazzopardi/Documents/ISCTE/main_project/paper/main.tex" 1759706692.47341 6549 4e8c8c477834e6e7fad3a219e1cb690a ""
+["pdflatex"] 1759706693.98776 "/Users/glenazzopardi/Documents/ISCTE/main_project/Paper/main.tex" "main.pdf" "main" 1759706694.46194 0
+  "/Users/glenazzopardi/Documents/ISCTE/main_project/Paper/main.tex" 1759706692.47341 6549 4e8c8c477834e6e7fad3a219e1cb690a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -79,9 +79,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1759693689 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1759693570 3345724 53777c2b69ad684fc382442e351d597d ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1760379879.8678 3149 93d652a0da5e8b197bde123bc4cb19d8 "pdflatex"
+  "main.aux" 1759706694.40164 3149 93d652a0da5e8b197bde123bc4cb19d8 "pdflatex"
   "main.tex" 1759706692.47341 6549 4e8c8c477834e6e7fad3a219e1cb690a ""
-  "main.toc" 1760379879.86851 1349 75aef104ae1262764fa7a9d71a04083f "pdflatex"
+  "main.toc" 1759706694.40249 1349 75aef104ae1262764fa7a9d71a04083f "pdflatex"
   (generated)
   "main.aux"
   "main.log"

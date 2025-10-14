@@ -1,8 +1,8 @@
-PWD /Users/glenazzopardi/Documents/ISCTE/main_project/paper
+PWD /Users/glenazzopardi/Documents/ISCTE/main_project/Paper
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/glenazzopardi/Documents/ISCTE/main_project/paper/main.tex
+INPUT /Users/glenazzopardi/Documents/ISCTE/main_project/Paper/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amscls/amsbook.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amscls/amsbook.cls
