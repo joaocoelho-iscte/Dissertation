@@ -4,6 +4,7 @@ import time
 
 #Code from (Insert book given by the teacher) that was originaly compiled in fortran for 20 partitions. 
 #This code has been modified by deepseek to be in python and to give 80 partitions.
+#Total partitions: 15,796,476
 
 def generate_n80_partitions_sqlite_only():
     """
