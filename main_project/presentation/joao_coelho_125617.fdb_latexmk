@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1760456905.86904 "/Users/glenazzopardi/Documents/ISCTE/main_project/presentation/joao_coelho_125617.tex" "joao_coelho_125617.pdf" "joao_coelho_125617" 1760456906.75485 0
-  "/Users/glenazzopardi/Documents/ISCTE/main_project/presentation/joao_coelho_125617.tex" 1760456904.77816 2409 93788ea954c90da8306ebdee472058af ""
+["pdflatex"] 1760469161.56222 "/Users/glenazzopardi/Documents/ISCTE/main_project/presentation/joao_coelho_125617.tex" "joao_coelho_125617.pdf" "joao_coelho_125617" 1760469162.52788 0
+  "/Users/glenazzopardi/Documents/ISCTE/main_project/presentation/joao_coelho_125617.tex" 1760469161.39118 2409 93788ea954c90da8306ebdee472058af ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -195,11 +195,11 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1759693689 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1759693570 3345724 53777c2b69ad684fc382442e351d597d ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "joao_coelho_125617.aux" 1760456906.69191 2286 b35fc54611cbf7be0382a34f75960917 "pdflatex"
-  "joao_coelho_125617.nav" 1760456906.69261 1349 0af2a83b9af2db7df3fefc04d6fe311d "pdflatex"
-  "joao_coelho_125617.out" 1760456906.69243 357 160a57810933155506541075c9ffe18e "pdflatex"
-  "joao_coelho_125617.tex" 1760456904.77816 2409 93788ea954c90da8306ebdee472058af ""
-  "joao_coelho_125617.toc" 1760456906.69265 181 fcd6f1d5f9586b7562ce4e3729f2638a "pdflatex"
+  "joao_coelho_125617.aux" 1760469162.46128 2286 b35fc54611cbf7be0382a34f75960917 "pdflatex"
+  "joao_coelho_125617.nav" 1760469162.46202 1349 0af2a83b9af2db7df3fefc04d6fe311d "pdflatex"
+  "joao_coelho_125617.out" 1760469162.46181 357 160a57810933155506541075c9ffe18e "pdflatex"
+  "joao_coelho_125617.tex" 1760469161.39118 2409 93788ea954c90da8306ebdee472058af ""
+  "joao_coelho_125617.toc" 1760469162.46206 181 fcd6f1d5f9586b7562ce4e3729f2638a "pdflatex"
   (generated)
   "joao_coelho_125617.aux"
   "joao_coelho_125617.log"
